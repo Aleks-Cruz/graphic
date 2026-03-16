@@ -2,13 +2,13 @@ import tkinter as tk
 
 janela_main = tk.Tk()
 
-janela_main.title("My kink")
+janela_main.title("My king")
 janela_main.configure(background="yellow")
 janela_main.minsize(200,200)
 janela_main.maxsize(500,500)
 janela_main.geometry("300x300")
 
-# TEXTO
+
 tk.Label(
     janela_main,
     text="Seja Bem vindo meu REI",
@@ -24,8 +24,8 @@ tk.Label(
     font=("Arial",20)
 ).pack()
 
-# IMAGEM
-imagem = tk.PhotoImage(file="REI.png")  # use png ou gif
+
+imagem = tk.PhotoImage(file="REI.png") 
 tk.Label(janela_main, image=imagem).pack()
 
 janela_main.mainloop()
