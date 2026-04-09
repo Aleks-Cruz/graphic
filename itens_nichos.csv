@@ -1,0 +1,201 @@
+
+1,Esteira (Fitness),12.23,22
+2,Ventilador (Casa),209.72,57
+3,Shampoo (Beleza),434.6,15
+4,Condicionador (Beleza),29.68,48
+5,Limpador de Para-brisa (Automotivo),206.5,63
+6,Halter (Fitness),202.65,85
+7,Creme Hidratante (Beleza),79.04,6
+8,Cadeira Gamer (Games),310.75,38
+9,Cafeteira (Casa),266.7,21
+10,Kit Multimídia (Automotivo),388.74,69
+11,Creme Hidratante (Beleza),389.21,43
+12,Teclado Mecânico (Tecnologia),427.06,74
+13,Controle (Games),409.59,66
+14,Controle (Games),41.52,64
+15,Tênis Casual (Moda),39.18,47
+16,Jogo RPG (Games),307.84,56
+17,Mouse Gamer (Tecnologia),433.28,82
+18,Cafeteira (Casa),85.74,97
+19,Perfume (Beleza),102.2,96
+20,Calça Jeans (Moda),155.33,70
+21,Protetor Solar (Beleza),132.67,90
+22,Calça Jeans (Moda),483.2,70
+23,Limpador de Para-brisa (Automotivo),100.66,66
+24,Limpador de Para-brisa (Automotivo),442.73,27
+25,Webcam HD (Tecnologia),237.09,83
+26,Cafeteira (Casa),176.94,31
+27,Limpador de Para-brisa (Automotivo),229.65,89
+28,Camiseta Estampada (Moda),304.47,70
+29,Lâmpada LED (Casa),472.53,89
+30,Calça Jeans (Moda),224.44,36
+31,Jogo RPG (Games),248.55,86
+32,Perfume (Beleza),391.15,32
+33,Luva de Academia (Fitness),280.89,38
+34,Lâmpada LED (Casa),5.56,50
+35,Panela Antiaderente (Casa),339.35,10
+36,Webcam HD (Tecnologia),20.94,76
+37,Perfume (Beleza),36.77,38
+38,Corda de Pular (Fitness),343.84,6
+39,Shampoo (Beleza),71.04,2
+40,Lâmpada LED (Casa),165.22,79
+41,Corda de Pular (Fitness),107.37,100
+42,Condicionador (Beleza),465.27,41
+43,Liquidificador (Casa),193.64,41
+44,Relógio (Moda),487.8,48
+45,Webcam HD (Tecnologia),184.54,72
+46,Luva de Academia (Fitness),92.6,7
+47,Webcam HD (Tecnologia),262.86,79
+48,Garrafa Térmica (Fitness),359.86,86
+49,Halter (Fitness),168.74,29
+50,Webcam HD (Tecnologia),200.6,65
+51,Mousepad Gamer (Games),298.32,7
+52,Headset RGB (Tecnologia),129.15,37
+53,Jaqueta (Moda),230.97,82
+54,Jogo FPS (Games),255.5,5
+55,Calça Jeans (Moda),336.65,57
+56,SSD 1TB (Tecnologia),175.16,1
+57,SSD 1TB (Tecnologia),31.62,43
+58,Boné (Moda),318.18,35
+59,Sensor de Ré (Automotivo),238.67,95
+60,Condicionador (Beleza),221.55,80
+61,Jogo RPG (Games),92.16,21
+62,Mousepad Gamer (Games),491.37,56
+63,Mouse Gamer (Tecnologia),172.54,28
+64,Liquidificador (Casa),264.74,98
+65,Garrafa Térmica (Fitness),24.43,39
+66,Maquiagem (Beleza),349.41,2
+67,Mousepad Gamer (Games),199.59,86
+68,Shampoo (Beleza),190.45,43
+69,Camiseta Estampada (Moda),93.19,99
+70,Luva de Academia (Fitness),380.56,9
+71,Sensor de Ré (Automotivo),175.87,62
+72,Controle (Games),354.92,79
+73,Esteira (Fitness),87.26,52
+74,Corda de Pular (Fitness),390.96,25
+75,Luva de Academia (Fitness),138.73,76
+76,Webcam HD (Tecnologia),266.98,52
+77,Camiseta Estampada (Moda),477.09,38
+78,Kit Multimídia (Automotivo),26.82,59
+79,Sensor de Ré (Automotivo),180.53,29
+80,Ventilador (Casa),315.01,99
+81,Aspirador (Casa),22.4,85
+82,Calça Jeans (Moda),255.01,70
+83,"Monitor 24"" (Tecnologia)",35.8,4
+84,Lâmpada LED (Casa),95.39,28
+85,Shampoo (Beleza),324.32,96
+86,Tênis Casual (Moda),340.57,46
+87,Protetor Solar (Beleza),147.6,25
+88,Headset RGB (Tecnologia),65.63,18
+89,Mouse Gamer (Tecnologia),460.93,40
+90,Protetor Solar (Beleza),479.51,5
+91,Boné (Moda),237.59,31
+92,Sensor de Ré (Automotivo),171.81,52
+93,Sensor de Ré (Automotivo),162.24,31
+94,Tênis Casual (Moda),413.11,36
+95,Protetor Solar (Beleza),457.62,25
+96,Jogo FPS (Games),258.26,78
+97,Limpador de Para-brisa (Automotivo),234.62,95
+98,Liquidificador (Casa),47.62,30
+99,Jogo RPG (Games),12.28,21
+100,Limpador de Para-brisa (Automotivo),454.49,2
+101,Limpador de Para-brisa (Automotivo),495.49,28
+102,"Monitor 24"" (Tecnologia)",440.88,99
+103,Jaqueta (Moda),135.82,79
+104,Mousepad Gamer (Games),148.98,20
+105,Mouse Gamer (Tecnologia),481.2,91
+106,Perfume (Beleza),31.44,12
+107,Liquidificador (Casa),456.51,51
+108,Halter (Fitness),288.48,21
+109,Perfume (Beleza),180.31,24
+110,Luva de Academia (Fitness),339.38,67
+111,Teclado Mecânico (Tecnologia),175.15,38
+112,Cadeira Gamer (Games),149.34,34
+113,Sensor de Ré (Automotivo),499.01,60
+114,Protetor Solar (Beleza),12.99,4
+115,Esteira (Fitness),471.58,75
+116,Corda de Pular (Fitness),108.97,31
+117,Creme Hidratante (Beleza),38.65,83
+118,Relógio (Moda),309.67,51
+119,"Monitor 24"" (Tecnologia)",120.97,11
+120,Creme Hidratante (Beleza),263.87,93
+121,Esteira (Fitness),86.26,59
+122,Jogo RPG (Games),282.2,56
+123,Tênis Casual (Moda),152.64,86
+124,Mousepad Gamer (Games),119.3,28
+125,Controle (Games),83.33,19
+126,Garrafa Térmica (Fitness),305.44,43
+127,Jaqueta (Moda),281.43,13
+128,Headset RGB (Tecnologia),197.04,11
+129,Jogo FPS (Games),100.3,3
+130,Boné (Moda),392.36,77
+131,Mouse Gamer (Tecnologia),233.18,17
+132,Mouse Gamer (Tecnologia),398.64,15
+133,Headset RGB (Tecnologia),234.03,93
+134,Ventilador (Casa),129.54,27
+135,Óleo de Motor (Automotivo),97.14,38
+136,Garrafa Térmica (Fitness),413.92,5
+137,Corda de Pular (Fitness),249.3,19
+138,Condicionador (Beleza),216.15,83
+139,Protetor Solar (Beleza),167.43,45
+140,Sensor de Ré (Automotivo),498.33,35
+141,Óleo de Motor (Automotivo),291.9,38
+142,SSD 1TB (Tecnologia),375.31,10
+143,Esteira (Fitness),209.87,55
+144,Liquidificador (Casa),144.21,20
+145,Protetor Solar (Beleza),475.54,68
+146,Corda de Pular (Fitness),91.03,9
+147,Corda de Pular (Fitness),245.59,19
+148,Webcam HD (Tecnologia),336.03,93
+149,Cadeira Gamer (Games),373.89,69
+150,Protetor Solar (Beleza),182.36,59
+151,Boné (Moda),217.82,29
+152,Condicionador (Beleza),34.59,55
+153,Halter (Fitness),207.95,3
+154,"Monitor 24"" (Tecnologia)",13.28,82
+155,Calça Jeans (Moda),465.33,5
+156,Calça Jeans (Moda),113.9,11
+157,Halter (Fitness),56.97,98
+158,Perfume (Beleza),179.18,83
+159,Esteira (Fitness),451.1,10
+160,Calça Jeans (Moda),143.19,15
+161,Panela Antiaderente (Casa),10.69,34
+162,Aspirador (Casa),201.64,76
+163,Limpador de Para-brisa (Automotivo),34.75,22
+164,Headset RGB (Tecnologia),252.7,23
+165,Limpador de Para-brisa (Automotivo),170.98,89
+166,Mousepad Gamer (Games),122.69,52
+167,Shampoo (Beleza),445.65,74
+168,Corda de Pular (Fitness),5.47,44
+169,Liquidificador (Casa),281.14,32
+170,Teclado Mecânico (Tecnologia),473.42,49
+171,Limpador de Para-brisa (Automotivo),385.72,53
+172,Jaqueta (Moda),72.18,4
+173,Óleo de Motor (Automotivo),215.85,80
+174,Boné (Moda),420.41,69
+175,Jogo FPS (Games),29.26,20
+176,Perfume (Beleza),235.16,73
+177,Creme Hidratante (Beleza),288.39,68
+178,Protetor Solar (Beleza),292.68,78
+179,Liquidificador (Casa),73.43,82
+180,Cafeteira (Casa),181.39,13
+181,Webcam HD (Tecnologia),333.88,84
+182,Controle (Games),276.38,57
+183,Capa de Banco (Automotivo),385.41,5
+184,Jaqueta (Moda),303.42,23
+185,Creme Hidratante (Beleza),293.62,53
+186,Corda de Pular (Fitness),225.74,41
+187,Tênis Casual (Moda),470.87,45
+188,Liquidificador (Casa),303.39,23
+189,Esteira (Fitness),177.07,93
+190,Perfume (Beleza),191.83,80
+191,Esteira (Fitness),154.16,15
+192,Cadeira Gamer (Games),242.85,40
+193,Controle (Games),162.14,95
+194,Aspirador (Casa),314.73,81
+195,Condicionador (Beleza),448.58,57
+196,Lâmpada LED (Casa),193.64,88
+197,Óleo de Motor (Automotivo),31.24,23
+198,Boné (Moda),289.44,97
+199,Camiseta Estampada (Moda),43.4,83
+200,Luva de Academia (Fitness),451.99,5
